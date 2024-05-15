@@ -7,4 +7,4 @@ See our project poster here:
 [MambaDiffPoster.pdf](https://github.com/XiyahC/MambaDiff/files/15326634/MambaPoster.pdf)
 
 See our project report here:
-[MambaDiff: Revolutionizing Seq2Seq Models with Diffusion model and Mamba architecture]()
+[MambaDiff: Revolutionizing Seq2Seq Models with Diffusion model and Mamba architecture](https://github.com/XiyahC/MambaDiff/blob/d1a08d0af1a84309b7f7bb1d5c5c3c461bc7d749/Final_Report_MambaDiff__Revolutionizing_Seq2Seq_Models_with_Diffusion_Model_and_Mamba_Architectures.pdf)
